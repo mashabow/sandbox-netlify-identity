@@ -1583,6 +1583,11 @@
   resolved "https://registry.yarnpkg.com/@types/minimatch/-/minimatch-3.0.3.tgz#3dca0e3f33b200fc7d1139c0cd96c1268cadfd9d"
   integrity sha512-tHq6qdbT9U1IRSGf14CL0pUlULksvY9OZ+5eEgl1N7t+OA3tGvNpxJCzuKQlsNgCVwbAs670L1vcVQi8j9HjnA==
 
+"@types/netlify-identity-widget@^1.9.0":
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/@types/netlify-identity-widget/-/netlify-identity-widget-1.9.0.tgz#b7628eb5c76228aa9477f1b6caef9f1f16e6e4aa"
+  integrity sha512-2g5N3v2sOsLCiDrtGQfZwnmTkikMPUKb5VtsJ5BTPsBDHLfxsCsFEE6MnZHKavAK/nTJWh0MkqylkhnyjoWU5Q==
+
 "@types/node@*":
   version "13.9.2"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-13.9.2.tgz#ace1880c03594cc3e80206d96847157d8e7fa349"
@@ -6940,6 +6945,11 @@ neo-async@^2.5.0, neo-async@^2.6.1:
   version "2.6.1"
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.1.tgz#ac27ada66167fa8849a6addd837f6b189ad2081c"
   integrity sha512-iyam8fBuCUpWeKPGpaNMetEocMt364qkCsfL9JuhjXX6dRnguRVOfk2GZaDpPjcOKiiXCPINZC1GczQ7iTq3Zw==
+
+netlify-identity-widget@^1.9.1:
+  version "1.9.1"
+  resolved "https://registry.yarnpkg.com/netlify-identity-widget/-/netlify-identity-widget-1.9.1.tgz#9e716c4b92b9f0cc041074eb86fc962f35295b46"
+  integrity sha512-9oIWjwUSdRk3SkREcZNjZaVuDDx9T/wSIXZNQsQeY4qoXic/FiXVEGgu2RU3IuA4OI3L2652xY1o+PpS03Ugaw==
 
 next-tick@~1.0.0:
   version "1.0.0"
